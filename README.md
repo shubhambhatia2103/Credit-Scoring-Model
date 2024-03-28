@@ -15,7 +15,13 @@ The Credit Scoring Model project offers a solution by leveraging machine learnin
 - Offers a comprehensive toolkit with training datasets and Python source code for hands-on learning and reuse.
 
 ## Usage
-
+1. Clone the repository to your local machine.
+2. Access the provided dataset and Python source code files.
+3. Use Google Colab or a similar platform for model building and analysis.
+4. Follow the step-by-step instructions in the provided code cells to understand the project workflow.
+5. Customize the model parameters and thresholds based on your business requirements.
+6. Evaluate model performance using metrics such as accuracy score and confusion matrix.
+7. Utilize the output files to derive insights and make data-driven lending decisions.
 
 ## Getting Started
 To set up and run the project locally, follow these steps:
@@ -34,13 +40,6 @@ To set up and run the project locally, follow these steps:
 3. Open the project in Google Colab or any Python environment with the required dependencies installed.
 4. Follow the instructions in the code cells to build and analyze the model.
 5. Refer to the README file and documentation for detailed information on project usage and implementation.
-
-## Usage
-Users can interact with the Credit Scoring Model as follows:
-1. Load the dataset and preprocess the data if necessary.
-2. Train the Logistic Regression classifier using the provided dataset.
-3. Evaluate the model's performance and interpret the results.
-4. Utilize the decile methodology to formulate a lending strategy based on the model predictions.
 
 ## Data Sources
 The datasets used for training the Logistic Regression classifier are sourced from folder dataset/a_Dataset_CreditScoring.xlsx.
