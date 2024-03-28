@@ -2,13 +2,22 @@
 
 The Credit Scoring Model repository aims to build a predictive model for a bank, enabling data-driven lending decisions. This model utilizes the Logistic Regression classifier and decile methodology to formulate an effective lending strategy.
 
-## Technologies Used
-- Google Colab
-- Machine Learning (ML)
-- Logistic Regression
-- Decile Methodology
+## Problem Statement
+Banks and financial institutions often face challenges in assessing the creditworthiness of loan applicants. Traditional methods of credit scoring rely on historical data and statistical analysis to determine a borrower's credit score. However, these methods may not always be effective in predicting the likelihood of loan repayment accurately.
 
-## Installation Instructions
+## Solution Overview
+The Credit Scoring Model project offers a solution by leveraging machine learning techniques to predict the likelihood of loan repayment based on historical customer data. The project employs the Logistic Regression classifier, a popular algorithm for binary classification tasks, to build the predictive model. Additionally, it utilizes decile methodology to formulate business rules for accepting or rejecting new loan applications, thereby optimizing business profitability and market penetration.
+
+## Key Features
+- Utilizes Logistic Regression classifier for predictive modeling.
+- Implements decile methodology to formulate lending strategy.
+- Provides data-driven insights for making informed lending decisions.
+- Offers a comprehensive toolkit with training datasets and Python source code for hands-on learning and reuse.
+
+## Usage
+
+
+## Getting Started
 To set up and run the project locally, follow these steps:
 1. Clone the repository:
 
@@ -23,6 +32,8 @@ To set up and run the project locally, follow these steps:
     ```
 
 3. Open the project in Google Colab or any Python environment with the required dependencies installed.
+4. Follow the instructions in the code cells to build and analyze the model.
+5. Refer to the README file and documentation for detailed information on project usage and implementation.
 
 ## Usage
 Users can interact with the Credit Scoring Model as follows:
