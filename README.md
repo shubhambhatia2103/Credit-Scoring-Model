@@ -47,5 +47,10 @@ The datasets used for training the Logistic Regression classifier are sourced fr
 ## Methodology
 The decile methodology employed in formulating the lending strategy involves segmenting the customer base into ten equal groups based on their credit scores. This approach allows the bank to prioritize lending decisions and allocate resources effectively.
 
+## Acknowledgements
+Special thanks to Skillcate for providing the educational resources and project materials.
+
 ## Contributors
 - [Shubham Bhatia](https://www.linkedin.com/in/shubhambhatia2103/)
+
+
