@@ -1,6 +1,5 @@
 # Credit Scoring Model
 
-## Description
 The Credit Scoring Model repository aims to build a predictive model for a bank, enabling data-driven lending decisions. This model utilizes the Logistic Regression classifier and decile methodology to formulate an effective lending strategy.
 
 ## Technologies Used
