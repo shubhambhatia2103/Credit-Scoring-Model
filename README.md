@@ -13,7 +13,7 @@ To set up and run the project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/Credit-Scoring-Model.git
+    git clone [https://github.com/shubhambhatia2103/Credit-Scoring-Model.git]
     ```
 
 2. Navigate to the project directory:
@@ -32,13 +32,10 @@ Users can interact with the Credit Scoring Model as follows:
 4. Utilize the decile methodology to formulate a lending strategy based on the model predictions.
 
 ## Data Sources
-The datasets used for training the Logistic Regression classifier are sourced from [mention data sources here, e.g., Kaggle dataset 'Banking_Credit_Scoring'].
+The datasets used for training the Logistic Regression classifier are sourced from folder dataset/a_Dataset_CreditScoring.xlsx.
 
 ## Methodology
 The decile methodology employed in formulating the lending strategy involves segmenting the customer base into ten equal groups based on their credit scores. This approach allows the bank to prioritize lending decisions and allocate resources effectively.
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+- [Shubham Bhatia](https://www.linkedin.com/in/shubhambhatia2103/)
